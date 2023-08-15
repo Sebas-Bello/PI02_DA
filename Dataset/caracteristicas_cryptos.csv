@@ -1,0 +1,11 @@
+id,símbolo,nombre,precio_actual,capitalización_mercado,rango_capitalización_mercado,suministro_total,dominio_mercado
+bitcoin,btc,Bitcoin,"$29,361.39","$571,267,754,769.00",1,"$21,000,000.00",46.9
+ethereum,eth,Ethereum,"$1,843.49","$221,434,517,577.00",2,"$120,144,363.74",18.18
+binancecoin,bnb,BNB,$240.15,"$36,958,957,222.00",4,"$153,856,150.00",3.03
+solana,sol,Solana,$24.86,"$10,095,982,592.00",10,"$554,933,656.84",0.83
+matic-network,matic,Polygon,$0.68,"$6,331,103,280.00",12,"$10,000,000,000.00",0.52
+polkadot,dot,Polkadot,$4.98,"$6,300,160,350.00",13,"$1,345,287,496.75",0.52
+avalanche-2,avax,Avalanche,$12.33,"$4,240,227,108.00",20,"$430,547,431.69",0.35
+chainlink,link,Chainlink,$7.44,"$4,005,344,544.00",21,"$1,000,000,000.00",0.33
+aave,aave,Aave,$65.60,"$951,791,401.00",46,"$16,000,000.00",0.08
+algorand,algo,Algorand,$0.12,"$900,673,420.00",47,"$7,812,954,146.58",0.07
