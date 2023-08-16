@@ -132,7 +132,7 @@ En resumen, este proyecto me ha brindado una perspectiva profunda sobre el merca
 
 <div align="center">
   
-<img src="https://github.com/Sebas-Bello/PI02_DA/blob/c7139df4c2a75127c9940111e73db6ca6ce88e60/Sticker.jpg">
+<img src="https://github.com/Sebas-Bello/PI02_DA/blob/c7139df4c2a75127c9940111e73db6ca6ce88e60/Sticker.jpg" width="307" height="280">
 
 </div>
 
