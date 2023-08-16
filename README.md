@@ -20,7 +20,7 @@
 
 ***¡Bienvenidos a mi aventura como Analista de Datos en el mundo de las criptomonedas!***
 
-## Objetivo
+## 🚀 Objetivo
 
 Mi objetivo se centra en identificar aquellas criptomonedas que muestran un mayor potencial de inversión para nuestros valiosos clientes, basándome en criterios esenciales como la capitalización de mercado, el reciente crecimiento, las innovaciones tecnológicas y los casos de uso únicos. Al concentrar mis esfuerzos en un grupo selecto de al menos 10 criptomonedas, aspiro a generar recomendaciones sólidas y respaldadas por datos tangibles.
 
