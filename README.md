@@ -1,4 +1,4 @@
-![wink](https://github.com/Sebas-Bello/PI02_DA/blob/7c36744f77c254e2bce5490c663106a33cf6e3dc/Data%20analytics.gif)
+![wink](https://github.com/Sebas-Bello/PI02_DA/blob/083e94c272494ae4104dedd6356e0a2c688465ba/Data%20analytics.gif)
 
 ## Índice 
 <!-- TABLA DE CONTENIDO -->
