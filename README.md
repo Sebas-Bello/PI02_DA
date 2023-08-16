@@ -130,8 +130,12 @@ En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación
 
 En resumen, este proyecto me ha brindado una perspectiva profunda sobre el mercado de criptomonedas, la estrategia de inversión y el poder del análisis de datos. Las conclusiones y los insights obtenidos son valiosos para cualquier individuo o entidad interesada en incursionar en el mundo de las criptomonedas de manera informada y estratégica.
 
+-----
+
 <div align="center">
-  
+
+Agradezco tu interés en explorar este proyecto. Espero que la información aquí presentada te haya sido útil y te invite a profundizar en el emocionante mundo de criptomonedas.
+ 
 <img src="https://github.com/Sebas-Bello/PI02_DA/blob/c7139df4c2a75127c9940111e73db6ca6ce88e60/Sticker.jpg" width="307" height="280">
 
 </div>
