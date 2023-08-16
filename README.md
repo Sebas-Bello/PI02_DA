@@ -6,7 +6,7 @@
   <summary>Tabla de contenido</summary>
   <ol>  
     <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#🚀 Objetivo">Objetivo</a></li>
+    <li><a href="#🚀Objetivo">Objetivo</a></li>
     <li><a href="#ámbito-de-proyecto">Ámbito de Proyecto</a></li>
     <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
     <li><a href="#EDA">EDA</a></li>
