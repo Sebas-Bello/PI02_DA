@@ -10,10 +10,7 @@
     <li><a href="#ámbito-de-proyecto">Ámbito de Proyecto</a></li>
     <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
     <li><a href="#EDA">EDA</a></li>
-    <li><a href="#funciones-api">Funciones API</a></li>
-    <li><a href="#modelo-ml">Modelo ML</a></li>
-    <li><a href="#Deployment">Deployment</a></li>
-    <li><a href="#Video">Video</a></li>
+    <li><a href="#KPI">KPI</a></li>
   </ol>
 </details>
 
@@ -81,6 +78,19 @@ El análisis dejó en claro que la volatilidad y las variaciones en los patrones
 Observar las tendencias a lo largo del tiempo permitió visualizar cómo eventos significativos, como halvings o adopciones institucionales, pueden haber afectado el comportamiento de las criptomonedas. Estos eventos clave desempeñan un papel en la forma en que las monedas se comportan en diferentes etapas.
 
 En síntesis, este análisis exploratorio de datos arrojó una perspectiva valiosa sobre el comportamiento histórico de diversas criptomonedas. Sin embargo, es vital recordar que interpretar los movimientos de precios requiere una comprensión profunda de factores económicos, tecnológicos y regulatorios que afectan a cada moneda individualmente. El análisis proporciona una base sólida para futuras decisiones basadas en datos y una comprensión más completa del mercado de criptomonedas.
+
+## KPI
+
+1. `KPI 1`: **Dominio del Mercado (%)**
+  - Formula: Dominio del Mercado (%) = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
+  - Objetivo: Reducción del 5% anualmente
+2. `KPI 2`: Tasa de fatalidades por accidentes
+  - Formula: Número de muertes a bordo/Número total de accidentes
+  - Objetivo: Reducción de un 10% anualmente
+3. `KPI 3`: Tasa de accidentes fatales
+  - Formula: Número de accidentes donde no hubo sobrevivientes a bordo/Número total de accidentes
+  - Objetivo: Tasa de accidentes fatales por debajo del 50% anualmente
+
 
 
 
