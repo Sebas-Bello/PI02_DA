@@ -1,2 +1,2 @@
-![wink](https://github.com/Sebas-Bello/PI02_DA/blob/312b9ee36e5be70fe715232752911cdf50b22a3a/Data%20analytics.gif)
+![wink](https://github.com/Sebas-Bello/PI02_DA/blob/7c36744f77c254e2bce5490c663106a33cf6e3dc/Data%20analytics.gif)
  
