@@ -9,7 +9,6 @@
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#ámbito-de-proyecto">Ámbito de Proyecto</a></li>
     <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
-    <li><a href="#ETL">ETL</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#funciones-api">Funciones API</a></li>
     <li><a href="#modelo-ml">Modelo ML</a></li>
@@ -52,4 +51,40 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## EDA
+
+**Análisis del Comportamiento de Criptomonedas a lo Largo del Tiempo**
+
+Durante el análisis exploratorio de datos (EDA) del comportamiento de criptomonedas a lo largo del tiempo, se llevaron a cabo diversos enfoques para comprender las tendencias, patrones y dinámicas que influyen en este mercado en constante evolución. A continuación, destacamos algunos de los puntos clave que surgieron durante el proceso de EDA:
+
+1. **Visualización de Tendencias Individuales:**
+La representación gráfica permitió observar cómo diversas criptomonedas se han comportado a lo largo del tiempo, cada una en su propio subplot. Esta visualización permitió identificar patrones específicos y tendencias individuales para cada moneda, lo que resulta esencial para tomar decisiones informadas.
+
+2. **Variación en los Precios:**
+La gráfica capturó la diversidad en los precios de las criptomonedas presentadas. Algunas monedas destacaron por sus valores significativamente más altos, mientras que otras mostraron precios más moderados. Estas variaciones reflejan diferencias en adopción, demanda y percepción de valor dentro del mercado.
+
+3. **Tendencias de Crecimiento y Volatilidad:**
+El análisis visual destacó cómo algunas criptomonedas han experimentado un crecimiento sostenido, mientras que otras han mostrado una volatilidad más pronunciada, con fluctuaciones notables en sus precios. Estas tendencias pueden estar influenciadas por factores como la adopción, eventos del sector y la liquidez del mercado.
+
+4. **Identificación de Cambios:**
+Al trazar las líneas de las criptomonedas en los subplots, se revelaron cambios en las tendencias de los precios a lo largo del tiempo. Se identificaron períodos de aumento, estabilidad y disminución en el valor de cada criptomoneda. Estos cambios pueden ser indicativos de eventos internos o externos que afectan el mercado.
+
+5. **Comparativa del Rendimiento:**
+La disposición de las criptomonedas en una sola gráfica permitió comparar directamente su rendimiento relativo. Esta comparación brinda una visión clara de cuáles criptomonedas han crecido más rápido, mantenido estabilidad o experimentado mayor volatilidad en un período específico.
+
+6. **Profundización en los Movimientos de Precios:**
+La visualización enfatizó la importancia de ir más allá de los números y entender los eventos detrás de los cambios de precios. Los movimientos pueden estar ligados a anuncios relevantes, actualizaciones técnicas y adopción por parte de socios comerciales, factores que no siempre son evidentes en los gráficos.
+
+7. **Predicción de Precios:**
+El análisis dejó en claro que la volatilidad y las variaciones en los patrones de precios entre criptomonedas complican la predicción precisa. Dado que cada moneda es influida por su propia dinámica y factores únicos, cualquier predicción requerirá un análisis minucioso y una comprensión completa.
+
+8. **Impacto de Eventos Clave:**
+Observar las tendencias a lo largo del tiempo permitió visualizar cómo eventos significativos, como halvings o adopciones institucionales, pueden haber afectado el comportamiento de las criptomonedas. Estos eventos clave desempeñan un papel en la forma en que las monedas se comportan en diferentes etapas.
+
+En síntesis, este análisis exploratorio de datos arrojó una perspectiva valiosa sobre el comportamiento histórico de diversas criptomonedas. Sin embargo, es vital recordar que interpretar los movimientos de precios requiere una comprensión profunda de factores económicos, tecnológicos y regulatorios que afectan a cada moneda individualmente. El análisis proporciona una base sólida para futuras decisiones basadas en datos y una comprensión más completa del mercado de criptomonedas.
+
+
+
+
 
