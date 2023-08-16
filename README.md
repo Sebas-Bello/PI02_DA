@@ -14,13 +14,13 @@
   </ol>
 </details>
 
- ## 😡 Introducción
+ ## Introducción
 
 ¡Saludos! Aquí estoy, inmerso en un emocionante desafío: el rol de **Analista de Datos** en una empresa de servicios financieros que ha decidido incursionar en el fascinante mundo de las criptomonedas. Mi tarea es clara y apasionante: realizar un análisis exhaustivo del mercado criptográfico utilizando datos provenientes de la API CoinGecko. A medida que profundizo en este proyecto, tengo la oportunidad única de desentrañar las tendencias, identificar oportunidades y generar recomendaciones informadas para la toma de decisiones financieras. Acompáñame en este viaje, donde cada dato revelado es un paso hacia el entendimiento de un universo financiero en constante cambio. 
 
 ***¡Bienvenidos a mi aventura como Analista de Datos en el mundo de las criptomonedas!***
 
-## 🚀 Objetivo
+## Objetivo 🚀
 
 Mi objetivo se centra en identificar aquellas criptomonedas que muestran un mayor potencial de inversión para nuestros valiosos clientes, basándome en criterios esenciales como la capitalización de mercado, el reciente crecimiento, las innovaciones tecnológicas y los casos de uso únicos. Al concentrar mis esfuerzos en un grupo selecto de al menos 10 criptomonedas, aspiro a generar recomendaciones sólidas y respaldadas por datos tangibles.
 
@@ -28,7 +28,7 @@ A lo largo de este proyecto, mi intención es proporcionar a la empresa una visi
 
 En última instancia, mi propósito radica en aprovechar el potencial del análisis de datos para extraer valiosos conocimientos que dirijan tanto a la empresa como a nuestros estimados clientes hacia decisiones financieras más perspicaces y oportunas en el siempre dinámico mercado de criptomonedas.
 
-## Ámbito de Proyecto
+## Ámbito de Proyecto 📊
 
 El proyecto se desarrolló siguiendo estos aspectos clave:
 - Extracción data API: [Extracción data link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Extraccion%20data.ipynb)
@@ -36,7 +36,7 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 - Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
 - Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
 
-## Pila de Tecnologías 
+## Pila de Tecnologías 🖥️
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -49,7 +49,7 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## EDA
+## EDA 🔍
 
 Durante el análisis exploratorio de datos (EDA) del comportamiento de criptomonedas a lo largo del tiempo, se llevaron a cabo diversos enfoques para comprender las tendencias, patrones y dinámicas que influyen en este mercado en constante evolución. A continuación, destacamos algunos de los puntos clave que surgieron durante el proceso de EDA:
 
@@ -79,7 +79,7 @@ Observar las tendencias a lo largo del tiempo permitió visualizar cómo eventos
 
 En síntesis, este análisis exploratorio de datos arrojó una perspectiva valiosa sobre el comportamiento histórico de diversas criptomonedas. Sin embargo, es vital recordar que interpretar los movimientos de precios requiere una comprensión profunda de factores económicos, tecnológicos y regulatorios que afectan a cada moneda individualmente. El análisis proporciona una base sólida para futuras decisiones basadas en datos y una comprensión más completa del mercado de criptomonedas.
 
-## KPI
+## KPI 🎯
 
 1. `KPI 1`: 
   - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
