@@ -113,6 +113,23 @@ Compilé finalmente mis visualizaciones y análisis en informes interactivos uti
 En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación de informes interactivos que permiten una comprensión más profunda de los datos y la comunicación efectiva de insights valiosos. Esta herramienta poderosa me ha permitido transformar datos en información significativa de manera altamente efectiva.
 
 *Link de descarga:* [Dashboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
+
+## Conclusiones del Proyecto
+
+1. **Diversidad y Potencial en el Mercado de Criptomonedas:** A través del análisis exhaustivo de datos provenientes de diversas fuentes, he explorado la amplia gama de criptomonedas disponibles en el mercado. Esta diversidad refleja la innovación tecnológica en curso y el potencial de cada criptomoneda en la industria financiera y tecnológica.
+
+2. **Importancia de la Estrategia de Inversión:** Durante el proyecto, me sumergí en la estrategia de Dollar-Cost Averaging (DCA), demostrando ser una táctica efectiva para invertir en criptomonedas. Esta estrategia permite aprovechar las fluctuaciones de precios a lo largo del tiempo de manera disciplinada, mitigando la volatilidad y generando oportunidades de inversión sólidas.
+
+3. **Análisis como Catalizador de Decisiones Informadas:** El proceso de adquisición, limpieza y análisis de datos me ha permitido identificar tendencias, patrones y correlaciones en el mercado de criptomonedas. Estos insights son valiosos para la toma de decisiones informadas por parte de inversores y empresas que buscan capitalizar oportunidades y gestionar riesgos.
+
+4. **Impacto de Eventos Externos:** A lo largo del análisis, he observado cómo eventos externos, como la adopción institucional y la regulación gubernamental, pueden influir en el comportamiento del mercado de criptomonedas. Estos eventos demuestran la importancia de mantenerse al tanto de factores tecnológicos, económicos y regulatorios.
+
+5. **Poder de las Visualizaciones Interactivas:** Las visualizaciones interactivas en Power BI han sido esenciales para presentar los resultados de manera efectiva. Permiten a los usuarios explorar los datos por sí mismos, facilitando la comprensión y el descubrimiento de insights de manera intuitiva.
+
+6. **Continua Exploración y Adaptación:** El mundo de las criptomonedas y las finanzas es dinámico. Mantenerse actualizado con las últimas tendencias, tecnologías y eventos es esencial para ajustar estrategias y decisiones. La exploración continua y la adaptación son fundamentales para el éxito en este campo.
+
+En resumen, este proyecto me ha brindado una perspectiva profunda sobre el mercado de criptomonedas, la estrategia de inversión y el poder del análisis de datos. Las conclusiones y los insights obtenidos son valiosos para cualquier individuo o entidad interesada en incursionar en el mundo de las criptomonedas de manera informada y estratégica.
+
   
 
 
