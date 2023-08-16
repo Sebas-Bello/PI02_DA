@@ -1,19 +1,6 @@
 ![wink](https://github.com/Sebas-Bello/PI02_DA/blob/083e94c272494ae4104dedd6356e0a2c688465ba/Data%20analytics.gif)
 
-## Índice 
-<!-- TABLA DE CONTENIDO -->
-<details>
-  <summary>Tabla de contenido</summary>
-  <ol>  
-    <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#🚀 objetivo">🚀 Objetivo</a></li>
-    <li><a href="#ámbito-de-proyecto">Ámbito de Proyecto</a></li>
-    <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
-    <li><a href="#EDA">EDA</a></li>
-    <li><a href="#Estrategia-de-inversión">Estrategia de Inversión</a></li>
-    <li><a href="#KPI">KPI</a></li>
-  </ol>
-</details>
+-----
 
  ## Introducción <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
