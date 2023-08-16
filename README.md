@@ -20,6 +20,38 @@ A lo largo de este proyecto, mi intención es proporcionar a la empresa una visi
 
 En última instancia, mi propósito radica en aprovechar el potencial del análisis de datos para extraer valiosos conocimientos que dirijan tanto a la empresa como a nuestros estimados clientes hacia decisiones financieras más perspicaces y oportunas en el siempre dinámico mercado de criptomonedas.
 
+## 🪙 **Investigación de Mercado de Criptomonedas**
+
+En los últimos años, el mundo financiero ha sido testigo de una revolución impulsada por el surgimiento y la adopción masiva de las criptomonedas. Estas monedas digitales, construidas sobre tecnologías de cadena de bloques, han transformado la forma en que percibimos y realizamos transacciones financieras. Una de las características más notables de este mercado es su diversidad, con miles de criptomonedas diferentes, cada una con su propio propósito, tecnología subyacente y potencial de crecimiento.
+
+En este contexto, como analistas de datos en una empresa de servicios financieros, se nos ha encomendado la tarea de realizar una investigación de mercado exhaustiva sobre una selección de 10 criptomonedas. Estas monedas digitales han sido escogidas con sumo cuidado y se han evaluado en función de diversos criterios clave, como la capitalización de mercado, el crecimiento reciente, la innovación tecnológica y los casos de uso únicos que ofrecen. El objetivo de esta investigación es brindar una comprensión profunda y objetiva de estas criptomonedas, destacando sus características sobresalientes y su potencial de inversión.
+
+### **Las 10 Criptomonedas Seleccionadas**
+
+A continuación, presentamos una descripción detallada de las 10 criptomonedas seleccionadas para este análisis:
+
+1. **Bitcoin (BTC):** Es el pionero y líder indiscutible en el mundo de las criptomonedas. Fue la primera criptomoneda en ser creada y ha demostrado ser una reserva de valor y un activo de inversión buscado en todo el mundo. Su limitada oferta de 21 millones de monedas y su tecnología blockchain segura le han otorgado una capitalización de mercado sin igual.
+
+2. **Ethereum (ETH):** Más allá de ser simplemente una moneda digital, Ethereum revolucionó la industria de las criptomonedas con la introducción de contratos inteligentes y aplicaciones descentralizadas (dApps). Su tecnología ha dado forma a un ecosistema completo de innovación, permitiendo a los desarrolladores crear y lanzar sus propias aplicaciones descentralizadas en su cadena de bloques. Ethereum también es el impulsor detrás del auge del movimiento DeFi y NFT.
+
+3. **Binance Coin (BNB):** Es la moneda nativa de uno de los intercambios de criptomonedas más grandes y populares del mundo, Binance. Inicialmente lanzada como un token de utilidad para pagar tarifas de transacción en el intercambio Binance, BNB ha demostrado ser un caso de uso sólido en el mundo real. Binance ha ampliado su utilidad, permitiendo a los usuarios usar BNB para participar en ventas de tokens y aplicaciones DeFi en su cadena de bloques, Binance Smart Chain.
+
+4. **Aave (AAVE):** Es una criptomoneda nativa de la plataforma de finanzas descentralizadas (DeFi) con el mismo nombre. AAVE es un token ERC-20 en la cadena de bloques Ethereum. Aave es utilizado dentro de la plataforma para gobernanza y toma de decisiones, permitiendo a los titulares de AAVE votar sobre propuestas de mejora y cambios en la plataforma. Además, AAVE se utiliza para acceder a ciertas funciones avanzadas y ventajas dentro del ecosistema Aave. Como parte del crecimiento de DeFi, AAVE ha ganado popularidad y ha sido ampliamente adoptado como parte integral del ecosistema financiero descentralizado..
+
+5. **Solana (SOL):** Es conocida por su alta velocidad y rendimiento. Ha ganado popularidad como una opción para aplicaciones de alto rendimiento y finanzas descentralizadas (DeFi). Su enfoque en la escalabilidad y la velocidad la convierte en una cadena de bloques atractiva para aplicaciones que requieren un procesamiento rápido de transacciones.
+
+6. **Polkadot (DOT):** Se destaca por su enfoque en la interoperabilidad de las cadenas de bloques. Permite la creación de redes seguras y personalizables, lo que fomenta la innovación al facilitar la comunicación entre diferentes blockchains. Esta capacidad para conectar diferentes cadenas de bloques ha llevado a la creación de un ecosistema DeFi más interconectado.
+
+7. **Chainlink (LINK):** Es conocida por proporcionar soluciones de oráculos que conectan contratos inteligentes con datos del mundo real. Esta función es esencial para aplicaciones descentralizadas que requieren información actualizada y confiable fuera de la cadena. Chainlink ha abierto oportunidades para el desarrollo de aplicaciones más avanzadas y seguras.
+
+8. **Avalanche (AVAX):** Se enfoca en la escalabilidad y busca crear un ecosistema de aplicaciones descentralizadas altamente eficiente. Su arquitectura permite una alta capacidad de transacción y un tiempo de confirmación rápido, lo que lo hace atractivo para aplicaciones que requieren una respuesta rápida y una alta velocidad.
+
+9. **Algorand (ALGO):** Se destaca por su enfoque en la escalabilidad y la seguridad. Utiliza un enfoque de consenso único llamado Algorand Consensus Algorithm (Algorand ASA) que busca ser rápido, seguro y eficiente en términos energéticos. Esto lo hace adecuado para aplicaciones que requieren una cadena de bloques rápida y confiable.
+
+10. **Polygon (MATIC):** Anteriormente conocido como Matic Network, es una capa 2 de Ethereum que busca resolver los problemas de escalabilidad de Ethereum. Ofrece soluciones para mejorar la experiencia del usuario y acelerar las transacciones en la red Ethereum. Su objetivo es facilitar la adopción masiva de aplicaciones descentralizadas al abordar las limitaciones de escalabilidad.
+
+El objetivo de esta investigación es proporcionar una visión integral de las 10 criptomonedas seleccionadas, analizando sus fundamentos, potencial de crecimiento y casos de uso únicos. Al evaluar factores como la capitalización de mercado, el crecimiento reciente, la innovación tecnológica y los casos de uso, buscamos ofrecer información valiosa que pueda ser utilizada por inversores y entusiastas del mundo de las criptomonedas para tomar decisiones informadas y estratégicas.
+
 ## 📊 Ámbito de Proyecto
 
 El proyecto se desarrolló siguiendo estos aspectos clave:
