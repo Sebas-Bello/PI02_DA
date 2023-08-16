@@ -83,7 +83,7 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 1. `KPI 1`: 
   - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
-  - Descripción: Este KPI es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá tener         
+  - Descripción: Este KPI es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá tener
     portafolio de inversión estable y así mitigar riesgos.
     
 2. `KPI 2`: 
@@ -92,7 +92,7 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
     
 3. `KPI 3`: 
   - Formula: **Retorno de la inversión (ROI)** = (Ganancia - Costo) / Costo * 100
-  - Descripción: Es un indicador esencial que mide la rentabilidad de una inversión en términos de porcentaje. Se utiliza para evaluar el rendimiento de una inversión y entender cuánto se ha ganado o perdido en relación     con la cantidad de dinero que inicialmente se invirtió
+  - Descripción: Es un indicador esencial que mide la rentabilidad de una inversión en términos de porcentaje. Se utiliza para evaluar el rendimiento de una inversión y entender cuánto se ha ganado o perdido en relación    con la cantidad de dinero que inicialmente se invirtió
   
 
 
