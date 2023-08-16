@@ -11,6 +11,7 @@
     <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
     <li><a href="#EDA">EDA</a></li>
     <li><a href="#KPI">KPI</a></li>
+    <li><a href="#Estrategia-de-inversión">Estrategia de Inversión</a></li>
   </ol>
 </details>
 
@@ -78,6 +79,28 @@ El análisis dejó en claro que la volatilidad y las variaciones en los patrones
 Observar las tendencias a lo largo del tiempo permitió visualizar cómo eventos significativos, como halvings o adopciones institucionales, pueden haber afectado el comportamiento de las criptomonedas. Estos eventos clave desempeñan un papel en la forma en que las monedas se comportan en diferentes etapas.
 
 En síntesis, este análisis exploratorio de datos arrojó una perspectiva valiosa sobre el comportamiento histórico de diversas criptomonedas. Sin embargo, es vital recordar que interpretar los movimientos de precios requiere una comprensión profunda de factores económicos, tecnológicos y regulatorios que afectan a cada moneda individualmente. El análisis proporciona una base sólida para futuras decisiones basadas en datos y una comprensión más completa del mercado de criptomonedas.
+
+*El desarrollo de este proceso se puede ver aquí:* [EDA Link](https://github.com/Sebas-Bello/PI02_DA/blob/023f365b3a4fb0a312e587b6be1f9e2a7249f830/EDA.ipynb)
+
+## Estrategia de Inversión
+
+La estrategia de **Dollar-Cost Averaging (DCA)**, también conocida como "_Promediación en Costos_", es una táctica popular para invertir en criptomonedas y otros activos. Esta estrategia se basa en adquirir criptomonedas de manera continua y disciplinada a lo largo del tiempo, independientemente de los cambios en los precios del mercado.
+
+**Funcionamiento de la Estrategia:**
+
+1. **Frecuencia de Compra:** En lugar de invertir una gran cantidad de dinero en una sola transacción, con DCA decides invertir una cantidad fija en intervalos regulares, como semanal o mensualmente.
+
+2. **Compras en Diferentes Niveles de Precio:** Con cada compra programada, adquieres la misma cantidad de criptomoneda, sin importar su precio en ese momento. Esto resulta en la adquisición de más unidades cuando el precio es bajo y menos cuando es alto.
+
+3. **Promediar Costos:** A lo largo del tiempo, al realizar compras en diferentes niveles de precio, tu costo promedio por unidad disminuirá, ya que estarás comprando más unidades cuando el precio sea bajo.
+
+4. **Mitigación de la Volatilidad:** Al invertir de manera constante, DCA mitiga el impacto de la volatilidad del mercado. Los movimientos a corto plazo importan menos, ya que estás en el mercado de manera continua.
+
+5. **Inversión Disciplinada:** DCA fomenta la inversión disciplinada, ya que te comprometes a invertir en intervalos regulares, sin importar cómo fluctúen los precios.
+
+Si bien el DCA no garantiza ganancias, puede ser una estrategia efectiva para quienes buscan invertir en criptomonedas sin intentar predecir los movimientos del mercado. Al promediar los costos a lo largo del tiempo, es posible reducir el impacto de la volatilidad y posiblemente obtener un retorno positivo a largo plazo.
+
+Es crucial mantener la disciplina y seguir con las compras programadas independientemente de las fluctuaciones del mercado a corto plazo. El DCA es una estrategia que se basa en la consistencia y en la confianza en el potencial a largo plazo de las criptomonedas.
 
 ## KPI 🎯
 
