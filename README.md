@@ -20,7 +20,7 @@ A lo largo de este proyecto, mi intención es proporcionar a la empresa una visi
 
 En última instancia, mi propósito radica en aprovechar el potencial del análisis de datos para extraer valiosos conocimientos que dirijan tanto a la empresa como a nuestros estimados clientes hacia decisiones financieras más perspicaces y oportunas en el siempre dinámico mercado de criptomonedas.
 
-## **Investigación de Mercado de Criptomonedas**
+## 🪙 **Investigación de Mercado de Criptomonedas**
 
 En los últimos años, el mundo financiero ha sido testigo de una revolución impulsada por el surgimiento y la adopción masiva de las criptomonedas. Estas monedas digitales, construidas sobre tecnologías de cadena de bloques, han transformado la forma en que percibimos y realizamos transacciones financieras. Una de las características más notables de este mercado es su diversidad, con miles de criptomonedas diferentes, cada una con su propio propósito, tecnología subyacente y potencial de crecimiento.
 
