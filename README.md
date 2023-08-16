@@ -26,11 +26,11 @@
 
 ## Objetivo
 
-Mi propósito es identificar aquellas criptomonedas que presentan un mayor potencial de inversión para nuestros clientes, basándonos en criterios como capitalización de mercado, crecimiento reciente, innovaciones tecnológicas y casos de uso únicos. Al focalizar nuestros esfuerzos en un conjunto selecto de al menos 10 criptomonedas, pretendemos generar recomendaciones sólidas y respaldadas por datos concretos.
+Mi objetivo se centra en identificar aquellas criptomonedas que muestran un mayor potencial de inversión para nuestros valiosos clientes, basándome en criterios esenciales como la capitalización de mercado, el reciente crecimiento, las innovaciones tecnológicas y los casos de uso únicos. Al concentrar mis esfuerzos en un grupo selecto de al menos 10 criptomonedas, aspiro a generar recomendaciones sólidas y respaldadas por datos tangibles.
 
-A través de este proyecto, también busco brindar a la empresa una visión clara de las oportunidades y riesgos presentes en el mercado de criptomonedas, permitiendo una toma de decisiones informada y estratégica. Además, aspiramos a proporcionar pautas para la gestión de riesgos, la optimización de carteras y el monitoreo continuo de las tendencias en este emocionante ámbito financiero.
+A lo largo de este proyecto, mi intención es proporcionar a la empresa una visión nítida sobre las oportunidades y los riesgos que prevalecen en el mercado de criptomonedas, permitiendo así la toma de decisiones informadas y estratégicas. Además, tengo como meta ofrecer directrices para la gestión de riesgos, la optimización de carteras y la continua vigilancia de las tendencias en este emocionante campo financiero.
 
-En última instancia, el objetivo es aprovechar la potencia del análisis de datos para extraer conocimientos valiosos que guíen tanto a la empresa como a los clientes hacia decisiones financieras más inteligentes y oportunas en el mercado de criptomonedas.
+En última instancia, mi propósito radica en aprovechar el potencial del análisis de datos para extraer valiosos conocimientos que dirijan tanto a la empresa como a nuestros estimados clientes hacia decisiones financieras más perspicaces y oportunas en el siempre dinámico mercado de criptomonedas.
 
 ## Tecnologías
 
