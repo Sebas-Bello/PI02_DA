@@ -81,16 +81,18 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 ## KPI
 
-1. `KPI 1`: **Dominio del Mercado (%)**
-  - Formula: Dominio del Mercado (%) = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
+1. `KPI 1`: 
+  - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
   - Descripción: El Dominio del Mercado es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá      tener un portafolio de inversión estable y así mitigar riesgos.
     
-2. `KPI 2`: Tasa de fatalidades por accidentes
-  - Formula: Número de muertes a bordo/Número total de accidentes
-  - Objetivo: Reducción de un 10% anualmente
-3. `KPI 3`: Tasa de accidentes fatales
+2. `KPI 2`: 
+  - Formula: **Índice de correlación** = (Sum Matriz Correlación - Count Total criptomonedas) / (Count Total criptomonedas ^ 2 - Count Total criptomonedas)
+  - Descripción: El objetivo es asegurarse de que las criptomonedas en el portafolio no estén demasiado correlacionadas entre sí. Al mantener la correlación en objetivo, buscamos lograr una     
+    diversificación efectiva que nos proporcione indicios sólidos de que el portafolio está bien equilibrado y adecuadamente diversificado.
+    
+3. `KPI 3`: 
   - Formula: Número de accidentes donde no hubo sobrevivientes a bordo/Número total de accidentes
-  - Objetivo: Tasa de accidentes fatales por debajo del 50% anualmente
+  
 
 
 
