@@ -83,7 +83,8 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 1. `KPI 1`: **Dominio del Mercado (%)**
   - Formula: Dominio del Mercado (%) = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
-  - Objetivo: Reducción del 5% anualmente
+  - Descripción: El Dominio del Mercado es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá      tener un portafolio de inversión estable y así mitigar riesgos.
+    
 2. `KPI 2`: Tasa de fatalidades por accidentes
   - Formula: Número de muertes a bordo/Número total de accidentes
   - Objetivo: Reducción de un 10% anualmente
