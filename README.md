@@ -83,15 +83,15 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 1. `KPI 1`: 
   - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
-  - Descripción: El Dominio del Mercado es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá      tener un portafolio de inversión estable y así mitigar riesgos.
+  - Descripción: Este KPI es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá      tener un portafolio de inversión estable y así mitigar riesgos.
     
 2. `KPI 2`: 
   - Formula: **Índice de correlación** = (Sum Matriz Correlación - Count Total criptomonedas) / (Count Total criptomonedas ^ 2 - Count Total criptomonedas)
-  - Descripción: El objetivo es asegurarse de que las criptomonedas en el portafolio no estén demasiado correlacionadas entre sí. Al mantener la correlación en objetivo, buscamos lograr una     
-    diversificación efectiva que nos proporcione indicios sólidos de que el portafolio está bien equilibrado y adecuadamente diversificado.
+  - Descripción: El objetivo es asegurarse de que las criptomonedas en el portafolio no estén demasiado correlacionadas entre sí. Al mantener la correlación en objetivo, buscamos lograr una diversificación efectiva que      nos proporcione indicios sólidos de que el portafolio está bien equilibrado y adecuadamente diversificado.
     
 3. `KPI 3`: 
-  - Formula: Número de accidentes donde no hubo sobrevivientes a bordo/Número total de accidentes
+  - Formula: **Retorno de la inversión (ROI)** = (Ganancia - Costo) / Costo * 100
+  - Descripción: Es un indicador esencial que mide la rentabilidad de una inversión en términos de porcentaje. Se utiliza para evaluar el rendimiento de una inversión y entender cuánto se ha ganado o perdido en relación     con la cantidad de dinero que inicialmente se invirtió
   
 
 
