@@ -1,4 +1,8 @@
+<div align="center">
+
 ![wink](https://github.com/Sebas-Bello/PI02_DA/blob/083e94c272494ae4104dedd6356e0a2c688465ba/Data%20analytics.gif)
+
+</div>
 
 -----
 
