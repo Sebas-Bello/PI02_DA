@@ -21,7 +21,7 @@ En última instancia, mi propósito radica en aprovechar el potencial del análi
 El proyecto se desarrolló siguiendo estos aspectos clave:
 - Extracción data API: [Extracción data link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Extraccion%20data.ipynb)
 - Análisis exploratorio de datos: [EDA link](https://github.com/Sebas-Bello/PI02_DA/blob/160135d8bf1a524e1d69cb14922df327b1f6b28e/EDA.ipynb)
-- Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
+- Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/302d628ba5cd6fda72bb589e74bac755e9bc83f2/Estrategia%20de%20inversi%C3%B3n%20y%20KPI.ipynb)
 - Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
 
 ## 🛠 Pila de Tecnologías
@@ -104,7 +104,13 @@ Es crucial mantener la disciplina y seguir con las compras programadas independi
   - Formula: **Retorno de la inversión (ROI)** = (Ganancia - Costo) / Costo * 100
   - Descripción: Es un indicador esencial que mide la rentabilidad de una inversión en términos de porcentaje. Se utiliza para evaluar el rendimiento de una inversión y entender cuánto se ha ganado o perdido en relación    con la cantidad de dinero que inicialmente se invirtió
 
-*El desarrollo de este proceso se puede ver aquí:* [KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
+*El desarrollo de este proceso se puede ver aquí:* [KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/302d628ba5cd6fda72bb589e74bac755e9bc83f2/Estrategia%20de%20inversi%C3%B3n%20y%20KPI.ipynb)
+
+## 📉📈 Dashboard
+
+Compilé finalmente mis visualizaciones y análisis en informes interactivos utilizando Power BI. He creado paneles de control que ofrecen a los usuarios la capacidad de explorar los datos por sí mismos, filtrar información y obtener respuestas a sus preguntas. Esto asegura que los resultados sean accesibles y útiles para usuarios de todos los perfiles.
+
+En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación de informes interactivos que permiten una comprensión más profunda de los datos y la comunicación efectiva de insights valiosos. Esta herramienta poderosa me ha permitido transformar datos en información significativa de manera altamente efectiva.
   
 
 
