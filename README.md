@@ -40,11 +40,6 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 - Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
 - Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
 
-</br>
-
-<div align="center">
-
-
 ## Pila de Tecnologías 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
