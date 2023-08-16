@@ -14,7 +14,7 @@
   </ol>
 </details>
 
- ## Introducción
+ ## Introducción 👋
 
 ¡Saludos! Aquí estoy, inmerso en un emocionante desafío: el rol de **Analista de Datos** en una empresa de servicios financieros que ha decidido incursionar en el fascinante mundo de las criptomonedas. Mi tarea es clara y apasionante: realizar un análisis exhaustivo del mercado criptográfico utilizando datos provenientes de la API CoinGecko. A medida que profundizo en este proyecto, tengo la oportunidad única de desentrañar las tendencias, identificar oportunidades y generar recomendaciones informadas para la toma de decisiones financieras. Acompáñame en este viaje, donde cada dato revelado es un paso hacia el entendimiento de un universo financiero en constante cambio. 
 
@@ -83,7 +83,8 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 1. `KPI 1`: 
   - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
-  - Descripción: Este KPI es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá      tener un portafolio de inversión estable y así mitigar riesgos.
+  - Descripción: Este KPI es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá tener         
+    portafolio de inversión estable y así mitigar riesgos.
     
 2. `KPI 2`: 
   - Formula: **Índice de correlación** = (Sum Matriz Correlación - Count Total criptomonedas) / (Count Total criptomonedas ^ 2 - Count Total criptomonedas)
