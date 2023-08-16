@@ -10,8 +10,8 @@
     <li><a href="#ámbito-de-proyecto">Ámbito de Proyecto</a></li>
     <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
     <li><a href="#EDA">EDA</a></li>
-    <li><a href="#KPI">KPI</a></li>
     <li><a href="#Estrategia-de-inversión">Estrategia de Inversión</a></li>
+    <li><a href="#KPI">KPI</a></li>
   </ol>
 </details>
 
@@ -21,7 +21,7 @@
 
 ***¡Bienvenidos a mi aventura como Analista de Datos en el mundo de las criptomonedas!***
 
-## Objetivo 🚀
+## 🚀 Objetivo
 
 Mi objetivo se centra en identificar aquellas criptomonedas que muestran un mayor potencial de inversión para nuestros valiosos clientes, basándome en criterios esenciales como la capitalización de mercado, el reciente crecimiento, las innovaciones tecnológicas y los casos de uso únicos. Al concentrar mis esfuerzos en un grupo selecto de al menos 10 criptomonedas, aspiro a generar recomendaciones sólidas y respaldadas por datos tangibles.
 
@@ -116,6 +116,8 @@ Es crucial mantener la disciplina y seguir con las compras programadas independi
 3. `KPI 3`: 
   - Formula: **Retorno de la inversión (ROI)** = (Ganancia - Costo) / Costo * 100
   - Descripción: Es un indicador esencial que mide la rentabilidad de una inversión en términos de porcentaje. Se utiliza para evaluar el rendimiento de una inversión y entender cuánto se ha ganado o perdido en relación    con la cantidad de dinero que inicialmente se invirtió
+
+*El desarrollo de este proceso se puede ver aquí:* [KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
   
 
 
