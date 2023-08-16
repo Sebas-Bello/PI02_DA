@@ -111,6 +111,8 @@ Es crucial mantener la disciplina y seguir con las compras programadas independi
 Compilé finalmente mis visualizaciones y análisis en informes interactivos utilizando Power BI. He creado paneles de control que ofrecen a los usuarios la capacidad de explorar los datos por sí mismos, filtrar información y obtener respuestas a sus preguntas. Esto asegura que los resultados sean accesibles y útiles para usuarios de todos los perfiles.
 
 En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación de informes interactivos que permiten una comprensión más profunda de los datos y la comunicación efectiva de insights valiosos. Esta herramienta poderosa me ha permitido transformar datos en información significativa de manera altamente efectiva.
+
+*Link de descarga:* [Dashboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
   
 
 
