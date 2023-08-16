@@ -20,7 +20,9 @@
 
  ## Introducción
 
-¡Saludos! Aquí estoy, inmerso en un emocionante desafío: el rol de **Analista de Datos** en una empresa de servicios financieros que ha decidido incursionar en el fascinante mundo de las criptomonedas. Mi tarea es clara y apasionante: realizar un análisis exhaustivo del mercado criptográfico utilizando datos provenientes de la API CoinGecko. A medida que profundizo en este proyecto, tengo la oportunidad única de desentrañar las tendencias, identificar oportunidades y generar recomendaciones informadas para la toma de decisiones financieras. Acompáñame en este viaje, donde cada dato revelado es un paso hacia el entendimiento de un universo financiero en constante cambio. **¡Bienvenidos a mi aventura como Analista de Datos en el mundo de las criptomonedas!**
+¡Saludos! Aquí estoy, inmerso en un emocionante desafío: el rol de **Analista de Datos** en una empresa de servicios financieros que ha decidido incursionar en el fascinante mundo de las criptomonedas. Mi tarea es clara y apasionante: realizar un análisis exhaustivo del mercado criptográfico utilizando datos provenientes de la API CoinGecko. A medida que profundizo en este proyecto, tengo la oportunidad única de desentrañar las tendencias, identificar oportunidades y generar recomendaciones informadas para la toma de decisiones financieras. Acompáñame en este viaje, donde cada dato revelado es un paso hacia el entendimiento de un universo financiero en constante cambio. 
+
+***¡Bienvenidos a mi aventura como Analista de Datos en el mundo de las criptomonedas!***
 
 ## Objetivo
 
