@@ -16,7 +16,7 @@ A lo largo de este proyecto, mi intención es proporcionar a la empresa una visi
 
 En última instancia, mi propósito radica en aprovechar el potencial del análisis de datos para extraer valiosos conocimientos que dirijan tanto a la empresa como a nuestros estimados clientes hacia decisiones financieras más perspicaces y oportunas en el siempre dinámico mercado de criptomonedas.
 
-## Ámbito de Proyecto 📊
+## 📊 Ámbito de Proyecto
 
 El proyecto se desarrolló siguiendo estos aspectos clave:
 - Extracción data API: [Extracción data link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Extraccion%20data.ipynb)
@@ -24,7 +24,7 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 - Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
 - Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
 
-## Pila de Tecnologías 🔧
+## 🔧 Pila de Tecnologías
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -37,7 +37,7 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## EDA 🔍
+## 🔍 EDA
 
 Durante el análisis exploratorio de datos (EDA) del comportamiento de criptomonedas a lo largo del tiempo, se llevaron a cabo diversos enfoques para comprender las tendencias, patrones y dinámicas que influyen en este mercado en constante evolución. A continuación, destacamos algunos de los puntos clave que surgieron durante el proceso de EDA:
 
@@ -69,7 +69,7 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 *El desarrollo de este proceso se puede ver aquí:* [EDA Link](https://github.com/Sebas-Bello/PI02_DA/blob/023f365b3a4fb0a312e587b6be1f9e2a7249f830/EDA.ipynb)
 
-## Estrategia de Inversión
+## 💸 Estrategia de Inversión
 
 La estrategia de **Dollar-Cost Averaging (DCA)**, también conocida como "_Promediación en Costos_", es una táctica popular para invertir en criptomonedas y otros activos. Esta estrategia se basa en adquirir criptomonedas de manera continua y disciplinada a lo largo del tiempo, independientemente de los cambios en los precios del mercado.
 
@@ -89,7 +89,7 @@ Si bien el DCA no garantiza ganancias, puede ser una estrategia efectiva para qu
 
 Es crucial mantener la disciplina y seguir con las compras programadas independientemente de las fluctuaciones del mercado a corto plazo. El DCA es una estrategia que se basa en la consistencia y en la confianza en el potencial a largo plazo de las criptomonedas.
 
-## KPI 🎯
+## 🎯 KPI
 
 1. `KPI 1`: 
   - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
