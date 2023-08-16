@@ -1,30 +1,14 @@
 ![wink](https://github.com/Sebas-Bello/PI02_DA/blob/083e94c272494ae4104dedd6356e0a2c688465ba/Data%20analytics.gif)
 
-## Índice 
-<!-- TABLA DE CONTENIDO -->
-<details>
-  <summary>Tabla de contenido</summary>
-  <ol>  
-    <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#Objetivo">Objetivo</a></li>
-    <li><a href="#ámbito-de-proyecto">Ámbito de Proyecto</a></li>
-    <li><a href="#pila-de-tecnologías">Pila de Tecnologías</a></li>
-    <li><a href="#ETL">ETL</a></li>
-    <li><a href="#EDA">EDA</a></li>
-    <li><a href="#funciones-api">Funciones API</a></li>
-    <li><a href="#modelo-ml">Modelo ML</a></li>
-    <li><a href="#Deployment">Deployment</a></li>
-    <li><a href="#Video">Video</a></li>
-  </ol>
-</details>
+-----
 
- ## Introducción
+ ## Introducción <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ¡Saludos! Aquí estoy, inmerso en un emocionante desafío: el rol de **Analista de Datos** en una empresa de servicios financieros que ha decidido incursionar en el fascinante mundo de las criptomonedas. Mi tarea es clara y apasionante: realizar un análisis exhaustivo del mercado criptográfico utilizando datos provenientes de la API CoinGecko. A medida que profundizo en este proyecto, tengo la oportunidad única de desentrañar las tendencias, identificar oportunidades y generar recomendaciones informadas para la toma de decisiones financieras. Acompáñame en este viaje, donde cada dato revelado es un paso hacia el entendimiento de un universo financiero en constante cambio. 
 
 ***¡Bienvenidos a mi aventura como Analista de Datos en el mundo de las criptomonedas!***
 
-## Objetivo
+## 🚀 Objetivo
 
 Mi objetivo se centra en identificar aquellas criptomonedas que muestran un mayor potencial de inversión para nuestros valiosos clientes, basándome en criterios esenciales como la capitalización de mercado, el reciente crecimiento, las innovaciones tecnológicas y los casos de uso únicos. Al concentrar mis esfuerzos en un grupo selecto de al menos 10 criptomonedas, aspiro a generar recomendaciones sólidas y respaldadas por datos tangibles.
 
@@ -32,15 +16,15 @@ A lo largo de este proyecto, mi intención es proporcionar a la empresa una visi
 
 En última instancia, mi propósito radica en aprovechar el potencial del análisis de datos para extraer valiosos conocimientos que dirijan tanto a la empresa como a nuestros estimados clientes hacia decisiones financieras más perspicaces y oportunas en el siempre dinámico mercado de criptomonedas.
 
-## Ámbito de Proyecto
+## 📊 Ámbito de Proyecto
 
 El proyecto se desarrolló siguiendo estos aspectos clave:
 - Extracción data API: [Extracción data link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Extraccion%20data.ipynb)
-- Procesamiento de datos y Análisis exploratorio de datos: [ETL y EDA link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/ELT%20y%20EDA.ipynb)
-- Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Estrategia%20de%20inversi%C3%B3n%20y%20KPI's.ipynb)
+- Análisis exploratorio de datos: [EDA link](https://github.com/Sebas-Bello/PI02_DA/blob/160135d8bf1a524e1d69cb14922df327b1f6b28e/EDA.ipynb)
+- Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/302d628ba5cd6fda72bb589e74bac755e9bc83f2/Estrategia%20de%20inversi%C3%B3n%20y%20KPI.ipynb)
 - Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
 
-## Pila de Tecnologías 
+## 🛠 Pila de Tecnologías
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -52,4 +36,104 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+## 🔍 EDA
+
+Durante el análisis exploratorio de datos (EDA) del comportamiento de criptomonedas a lo largo del tiempo, se llevaron a cabo diversos enfoques para comprender las tendencias, patrones y dinámicas que influyen en este mercado en constante evolución. A continuación, destacamos algunos de los puntos clave que surgieron durante el proceso de EDA:
+
+1. **Visualización de Tendencias Individuales:**
+La representación gráfica permitió observar cómo diversas criptomonedas se han comportado a lo largo del tiempo, cada una en su propio subplot. Esta visualización permitió identificar patrones específicos y tendencias individuales para cada moneda, lo que resulta esencial para tomar decisiones informadas.
+
+2. **Variación en los Precios:**
+La gráfica capturó la diversidad en los precios de las criptomonedas presentadas. Algunas monedas destacaron por sus valores significativamente más altos, mientras que otras mostraron precios más moderados. Estas variaciones reflejan diferencias en adopción, demanda y percepción de valor dentro del mercado.
+
+3. **Tendencias de Crecimiento y Volatilidad:**
+El análisis visual destacó cómo algunas criptomonedas han experimentado un crecimiento sostenido, mientras que otras han mostrado una volatilidad más pronunciada, con fluctuaciones notables en sus precios. Estas tendencias pueden estar influenciadas por factores como la adopción, eventos del sector y la liquidez del mercado.
+
+4. **Identificación de Cambios:**
+Al trazar las líneas de las criptomonedas en los subplots, se revelaron cambios en las tendencias de los precios a lo largo del tiempo. Se identificaron períodos de aumento, estabilidad y disminución en el valor de cada criptomoneda. Estos cambios pueden ser indicativos de eventos internos o externos que afectan el mercado.
+
+5. **Comparativa del Rendimiento:**
+La disposición de las criptomonedas en una sola gráfica permitió comparar directamente su rendimiento relativo. Esta comparación brinda una visión clara de cuáles criptomonedas han crecido más rápido, mantenido estabilidad o experimentado mayor volatilidad en un período específico.
+
+6. **Profundización en los Movimientos de Precios:**
+La visualización enfatizó la importancia de ir más allá de los números y entender los eventos detrás de los cambios de precios. Los movimientos pueden estar ligados a anuncios relevantes, actualizaciones técnicas y adopción por parte de socios comerciales, factores que no siempre son evidentes en los gráficos.
+
+7. **Predicción de Precios:**
+El análisis dejó en claro que la volatilidad y las variaciones en los patrones de precios entre criptomonedas complican la predicción precisa. Dado que cada moneda es influida por su propia dinámica y factores únicos, cualquier predicción requerirá un análisis minucioso y una comprensión completa.
+
+8. **Impacto de Eventos Clave:**
+Observar las tendencias a lo largo del tiempo permitió visualizar cómo eventos significativos, como halvings o adopciones institucionales, pueden haber afectado el comportamiento de las criptomonedas. Estos eventos clave desempeñan un papel en la forma en que las monedas se comportan en diferentes etapas.
+
+En síntesis, este análisis exploratorio de datos arrojó una perspectiva valiosa sobre el comportamiento histórico de diversas criptomonedas. Sin embargo, es vital recordar que interpretar los movimientos de precios requiere una comprensión profunda de factores económicos, tecnológicos y regulatorios que afectan a cada moneda individualmente. El análisis proporciona una base sólida para futuras decisiones basadas en datos y una comprensión más completa del mercado de criptomonedas.
+
+*El desarrollo de este proceso se puede ver aquí:* [EDA Link](https://github.com/Sebas-Bello/PI02_DA/blob/023f365b3a4fb0a312e587b6be1f9e2a7249f830/EDA.ipynb)
+
+## 💵 Estrategia de Inversión
+
+La estrategia de **Dollar-Cost Averaging (DCA)**, también conocida como "_Promediación en Costos_", es una táctica popular para invertir en criptomonedas y otros activos. Esta estrategia se basa en adquirir criptomonedas de manera continua y disciplinada a lo largo del tiempo, independientemente de los cambios en los precios del mercado.
+
+**Funcionamiento de la Estrategia:**
+
+1. **Frecuencia de Compra:** En lugar de invertir una gran cantidad de dinero en una sola transacción, con DCA decides invertir una cantidad fija en intervalos regulares, como semanal o mensualmente.
+
+2. **Compras en Diferentes Niveles de Precio:** Con cada compra programada, adquieres la misma cantidad de criptomoneda, sin importar su precio en ese momento. Esto resulta en la adquisición de más unidades cuando el precio es bajo y menos cuando es alto.
+
+3. **Promediar Costos:** A lo largo del tiempo, al realizar compras en diferentes niveles de precio, tu costo promedio por unidad disminuirá, ya que estarás comprando más unidades cuando el precio sea bajo.
+
+4. **Mitigación de la Volatilidad:** Al invertir de manera constante, DCA mitiga el impacto de la volatilidad del mercado. Los movimientos a corto plazo importan menos, ya que estás en el mercado de manera continua.
+
+5. **Inversión Disciplinada:** DCA fomenta la inversión disciplinada, ya que te comprometes a invertir en intervalos regulares, sin importar cómo fluctúen los precios.
+
+Si bien el DCA no garantiza ganancias, puede ser una estrategia efectiva para quienes buscan invertir en criptomonedas sin intentar predecir los movimientos del mercado. Al promediar los costos a lo largo del tiempo, es posible reducir el impacto de la volatilidad y posiblemente obtener un retorno positivo a largo plazo.
+
+Es crucial mantener la disciplina y seguir con las compras programadas independientemente de las fluctuaciones del mercado a corto plazo. El DCA es una estrategia que se basa en la consistencia y en la confianza en el potencial a largo plazo de las criptomonedas.
+
+## 🎯 KPI
+
+1. `KPI 1`: 
+  - Formula: **Dominio del Mercado (%)** = (Capitalización de Mercado de la Criptomoneda Específica / Capitalización de Mercado Total) * 100
+  - Descripción: Este KPI es crucial para evaluar la influencia de una criptomoneda en el mercado. Puedes mantener un equilibrio deseado entre criptomonedas influyentes y las altcoins, lo que me permitirá tener
+    portafolio de inversión estable y así mitigar riesgos.
+    
+2. `KPI 2`: 
+  - Formula: **Índice de correlación** = (Sum Matriz Correlación - Count Total criptomonedas) / (Count Total criptomonedas ^ 2 - Count Total criptomonedas)
+  - Descripción: El objetivo es asegurarse de que las criptomonedas en el portafolio no estén demasiado correlacionadas entre sí. Al mantener la correlación en objetivo, buscamos lograr una diversificación efectiva que      nos proporcione indicios sólidos de que el portafolio está bien equilibrado y adecuadamente diversificado.
+    
+3. `KPI 3`: 
+  - Formula: **Retorno de la inversión (ROI)** = (Ganancia - Costo) / Costo * 100
+  - Descripción: Es un indicador esencial que mide la rentabilidad de una inversión en términos de porcentaje. Se utiliza para evaluar el rendimiento de una inversión y entender cuánto se ha ganado o perdido en relación    con la cantidad de dinero que inicialmente se invirtió
+
+*El desarrollo de este proceso se puede ver aquí:* [KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/302d628ba5cd6fda72bb589e74bac755e9bc83f2/Estrategia%20de%20inversi%C3%B3n%20y%20KPI.ipynb)
+
+## 📉📈 Dashboard
+
+Compilé finalmente mis visualizaciones y análisis en informes interactivos utilizando Power BI. He creado paneles de control que ofrecen a los usuarios la capacidad de explorar los datos por sí mismos, filtrar información y obtener respuestas a sus preguntas. Esto asegura que los resultados sean accesibles y útiles para usuarios de todos los perfiles.
+
+En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación de informes interactivos que permiten una comprensión más profunda de los datos y la comunicación efectiva de insights valiosos. Esta herramienta poderosa me ha permitido transformar datos en información significativa de manera altamente efectiva.
+
+*Link de descarga:* [Dashboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
+
+## 💡 Conclusiones del Proyecto
+
+1. **Diversidad y Potencial en el Mercado de Criptomonedas:** A través del análisis exhaustivo de datos provenientes de diversas fuentes, he explorado la amplia gama de criptomonedas disponibles en el mercado. Esta diversidad refleja la innovación tecnológica en curso y el potencial de cada criptomoneda en la industria financiera y tecnológica.
+
+2. **Importancia de la Estrategia de Inversión:** Durante el proyecto, me sumergí en la estrategia de Dollar-Cost Averaging (DCA), demostrando ser una táctica efectiva para invertir en criptomonedas. Esta estrategia permite aprovechar las fluctuaciones de precios a lo largo del tiempo de manera disciplinada, mitigando la volatilidad y generando oportunidades de inversión sólidas.
+
+3. **Análisis como Catalizador de Decisiones Informadas:** El proceso de adquisición, limpieza y análisis de datos me ha permitido identificar tendencias, patrones y correlaciones en el mercado de criptomonedas. Estos insights son valiosos para la toma de decisiones informadas por parte de inversores y empresas que buscan capitalizar oportunidades y gestionar riesgos.
+
+4. **Impacto de Eventos Externos:** A lo largo del análisis, he observado cómo eventos externos, como la adopción institucional y la regulación gubernamental, pueden influir en el comportamiento del mercado de criptomonedas. Estos eventos demuestran la importancia de mantenerse al tanto de factores tecnológicos, económicos y regulatorios.
+
+5. **Poder de las Visualizaciones Interactivas:** Las visualizaciones interactivas en Power BI han sido esenciales para presentar los resultados de manera efectiva. Permiten a los usuarios explorar los datos por sí mismos, facilitando la comprensión y el descubrimiento de insights de manera intuitiva.
+
+6. **Continua Exploración y Adaptación:** El mundo de las criptomonedas y las finanzas es dinámico. Mantenerse actualizado con las últimas tendencias, tecnologías y eventos es esencial para ajustar estrategias y decisiones. La exploración continua y la adaptación son fundamentales para el éxito en este campo.
+
+En resumen, este proyecto me ha brindado una perspectiva profunda sobre el mercado de criptomonedas, la estrategia de inversión y el poder del análisis de datos. Las conclusiones y los insights obtenidos son valiosos para cualquier individuo o entidad interesada en incursionar en el mundo de las criptomonedas de manera informada y estratégica.
+
+  
+
+
+
+
+
 
