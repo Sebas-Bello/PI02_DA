@@ -134,7 +134,7 @@ En resumen, este proyecto me ha brindado una perspectiva profunda sobre el merca
 
 <div align="center">
 
-Agradezco tu interés en explorar este proyecto. Espero que la información aquí presentada te haya sido útil y te invite a profundizar en el emocionante mundo de criptomonedas.
+***Agradezco tu interés en explorar este proyecto. Espero que la información aquí presentada te haya sido útil y te invite a profundizar en el emocionante mundo de criptomonedas.***
  
 <img src="https://github.com/Sebas-Bello/PI02_DA/blob/c7139df4c2a75127c9940111e73db6ca6ce88e60/Sticker.jpg" width="307" height="280">
 
