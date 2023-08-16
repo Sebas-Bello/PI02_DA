@@ -69,7 +69,7 @@ En síntesis, este análisis exploratorio de datos arrojó una perspectiva valio
 
 *El desarrollo de este proceso se puede ver aquí:* [EDA Link](https://github.com/Sebas-Bello/PI02_DA/blob/023f365b3a4fb0a312e587b6be1f9e2a7249f830/EDA.ipynb)
 
-## 💸 Estrategia de Inversión
+## 💵 Estrategia de Inversión
 
 La estrategia de **Dollar-Cost Averaging (DCA)**, también conocida como "_Promediación en Costos_", es una táctica popular para invertir en criptomonedas y otros activos. Esta estrategia se basa en adquirir criptomonedas de manera continua y disciplinada a lo largo del tiempo, independientemente de los cambios en los precios del mercado.
 
@@ -114,7 +114,7 @@ En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación
 
 *Link de descarga:* [Dashboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
 
-## Conclusiones del Proyecto
+## 💡 Conclusiones del Proyecto
 
 1. **Diversidad y Potencial en el Mercado de Criptomonedas:** A través del análisis exhaustivo de datos provenientes de diversas fuentes, he explorado la amplia gama de criptomonedas disponibles en el mercado. Esta diversidad refleja la innovación tecnológica en curso y el potencial de cada criptomoneda en la industria financiera y tecnológica.
 
