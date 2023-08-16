@@ -54,8 +54,6 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 
 ## EDA
 
-**Análisis del Comportamiento de Criptomonedas a lo Largo del Tiempo**
-
 Durante el análisis exploratorio de datos (EDA) del comportamiento de criptomonedas a lo largo del tiempo, se llevaron a cabo diversos enfoques para comprender las tendencias, patrones y dinámicas que influyen en este mercado en constante evolución. A continuación, destacamos algunos de los puntos clave que surgieron durante el proceso de EDA:
 
 1. **Visualización de Tendencias Individuales:**
