@@ -58,7 +58,7 @@ El proyecto se desarrolló siguiendo estos aspectos clave:
 - Extracción data API: [Extracción data link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Extraccion%20data.ipynb)
 - Análisis exploratorio de datos: [EDA link](https://github.com/Sebas-Bello/PI02_DA/blob/160135d8bf1a524e1d69cb14922df327b1f6b28e/EDA.ipynb)
 - Creación estrategia de inversión y KPI: [Estrategia y KPI link](https://github.com/Sebas-Bello/PI02_DA/blob/302d628ba5cd6fda72bb589e74bac755e9bc83f2/Estrategia%20de%20inversi%C3%B3n%20y%20KPI.ipynb)
-- Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
+- Desarrollo de dashboard con PowerBI: [Dasboard link](https://github.com/Sebas-Bello/PI02_DA/blob/772dd1f1ef0cee4bb032b9524c9240dc5b1f3847/Reporte%20Financiero.pbix)
 
 ## 🛠 Pila de Tecnologías
 
@@ -148,7 +148,7 @@ Compilé finalmente mis visualizaciones y análisis en informes interactivos uti
 
 En resumen, el proceso que he desarrollado en Power BI se enfoca en la creación de informes interactivos que permiten una comprensión más profunda de los datos y la comunicación efectiva de insights valiosos. Esta herramienta poderosa me ha permitido transformar datos en información significativa de manera altamente efectiva.
 
-*Link de descarga:* [Dashboard link](https://github.com/Sebas-Bello/PI02_DA/blob/f552d3e5f470c7721e65838bae6e4a6ead6eed9b/Reporte%20Financiero.pbix)
+*Link de descarga:* [Dashboard link](https://github.com/Sebas-Bello/PI02_DA/blob/772dd1f1ef0cee4bb032b9524c9240dc5b1f3847/Reporte%20Financiero.pbix)
 
 ## 💡 Conclusiones del Proyecto
 
